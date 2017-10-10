@@ -20,3 +20,6 @@ Ingreso un for que recorra
          utilizo para recorrer si son minusculas
 
 Retornar el valor del cifrado
+
+
+![recursos](assets/docs/diagram de flujo.jpg)
