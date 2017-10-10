@@ -22,4 +22,4 @@ Ingreso un for que recorra
 Retornar el valor del cifrado
 
 
-![recursos](assets/docs/diagram de flujo.jpg)
+![recursos](assets/docs/diagram de flujo.png)
